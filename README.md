@@ -4,8 +4,8 @@
 
 [![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=2b2b2b)](https://share.google/idrJsrdvykouQDtPR)
 [![LATEST VERSION](https://img.shields.io/badge/VERSION-2026+-22c55e?style=for-the-badge)](https://share.google/idrJsrdvykouQDtPR)
-[![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-00c853?style=for-the-badge)]
-[![PLATFORM](https://img.shields.io/badge/PLATFORM-WINDOWS-0ea5e9?style=for-the-badge)]
+![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-00c853?style=for-the-badge)
+![PLATFORM](https://img.shields.io/badge/PLATFORM-WINDOWS-0ea5e9?style=for-the-badge)
 
 </p>
 
